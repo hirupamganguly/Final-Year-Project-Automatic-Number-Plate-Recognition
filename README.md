@@ -1,6 +1,6 @@
 
 
-<img src="theory.png">
+<img src="NOTES.png">
 <img src="Images/8th_sem_DOCUMENTATION/8th_sem_DOCUMENTATION-01.jpg">
 
 <img src="Images/8th_sem_DOCUMENTATION/8th_sem_DOCUMENTATION-02.jpg">
